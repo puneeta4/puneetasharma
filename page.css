@@ -1,0 +1,12 @@
+*{margin:0;
+    padding:0;
+    box-sizing:border;
+}
+header{
+   min-height:100;
+    width:50%;
+    background-image:src="C:\Users\A-25\Downloads\health.jpg";
+    }
+nav{
+*background:src="C:\Users\A-25\Downloads\health.jpg" ;
+}
